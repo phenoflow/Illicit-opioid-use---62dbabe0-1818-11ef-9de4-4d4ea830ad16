@@ -1,0 +1,330 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/illicit-opioid-use-replacement---primary.py
+inputModule3:
+  class: File
+  path: python/illicit-opioid-use-dipsomania---primary.py
+inputModule4:
+  class: File
+  path: python/illicit-opioid-use-injected---primary.py
+inputModule5:
+  class: File
+  path: python/illicit-opioid-use-injecting---primary.py
+inputModule6:
+  class: File
+  path: python/illicit-opioid-use-therapmethadone---primary.py
+inputModule7:
+  class: File
+  path: python/agonist-illicit-opioid-use---primary.py
+inputModule8:
+  class: File
+  path: python/illicit-opioid-use-failed---primary.py
+inputModule9:
+  class: File
+  path: python/illicit-opioid-use-mixture---primary.py
+inputModule10:
+  class: File
+  path: python/illicit-opioid-use-400microgram---primary.py
+inputModule11:
+  class: File
+  path: python/daily-illicit-opioid-use---primary.py
+inputModule12:
+  class: File
+  path: python/illicit-opioid-use-opium---primary.py
+inputModule13:
+  class: File
+  path: python/illicit-opioid-use-shared---primary.py
+inputModule14:
+  class: File
+  path: python/illicit-opioid-use-turkey---primary.py
+inputModule15:
+  class: File
+  path: python/illicit-opioid-use-distortion---primary.py
+inputModule16:
+  class: File
+  path: python/illicit-opioid-use-unspecified---primary.py
+inputModule17:
+  class: File
+  path: python/illicit-opioid-use-remission---primary.py
+inputModule18:
+  class: File
+  path: python/sublingual-illicit-opioid-use---primary.py
+inputModule19:
+  class: File
+  path: python/illicit-opioid-use-anileridine---primary.py
+inputModule20:
+  class: File
+  path: python/illicit-opioid-use-subutex---primary.py
+inputModule21:
+  class: File
+  path: python/illicit-opioid-use-injector---primary.py
+inputModule22:
+  class: File
+  path: python/illicit-opioid-use-suboxone---primary.py
+inputModule23:
+  class: File
+  path: python/illicit-opioid-use-naloxone---primary.py
+inputModule24:
+  class: File
+  path: python/nondependent-illicit-opioid-use---primary.py
+inputModule25:
+  class: File
+  path: python/illicit-opioid-use-ampoule---primary.py
+inputModule26:
+  class: File
+  path: python/illicit-opioid-use-diamorphine---primary.py
+inputModule27:
+  class: File
+  path: python/illicit-opioid-use-dihydrocodeine---primary.py
+inputModule28:
+  class: File
+  path: python/episodic-illicit-opioid-use---primary.py
+inputModule29:
+  class: File
+  path: python/illicit-opioid-use-addiction---primary.py
+inputModule30:
+  class: File
+  path: python/illicit-opioid-use-poisoning---primary.py
+inputModule31:
+  class: File
+  path: python/illicit-opioid-use-monitoring---primary.py
+inputModule32:
+  class: File
+  path: python/illicit-opioid-use-analgesics---primary.py
+inputModule33:
+  class: File
+  path: python/illicit-opioid-use-sharing---primary.py
+inputModule34:
+  class: File
+  path: python/illicit-opioid-use-papaveretum---primary.py
+inputModule35:
+  class: File
+  path: python/continuous-illicit-opioid-use---primary.py
+inputModule36:
+  class: File
+  path: python/illicit-opioid-use-infrequent---primary.py
+inputModule37:
+  class: File
+  path: python/illicit-opioid-use-oxymorphone---primary.py
+inputModule38:
+  class: File
+  path: python/illicit-opioid-use-combined---primary.py
+inputModule39:
+  class: File
+  path: python/illicit-opioid-use-dextropropoxyphene---primary.py
+inputModule40:
+  class: File
+  path: python/illicit-opioid-use-hydromorphone---primary.py
+inputModule41:
+  class: File
+  path: python/illicit-opioid-use-dextromoramide---primary.py
+inputModule42:
+  class: File
+  path: python/polymorphic-illicit-opioid-use---primary.py
+inputModule43:
+  class: File
+  path: python/illicit-opioid-use-piritramide---primary.py
+inputModule44:
+  class: File
+  path: python/illicit-opioid-use-dependence---primary.py
+inputModule45:
+  class: File
+  path: python/mixed-illicit-opioid-use---primary.py
+inputModule46:
+  class: File
+  path: python/manic-illicit-opioid-use---primary.py
+inputModule47:
+  class: File
+  path: python/illicit-opioid-use-reefer---primary.py
+inputModule48:
+  class: File
+  path: python/residual-illicit-opioid-use---primary.py
+inputModule49:
+  class: File
+  path: python/illicit-opioid-use-reinduction---primary.py
+inputModule50:
+  class: File
+  path: python/illicit-opioid-use-lyophilisate---primary.py
+inputModule51:
+  class: File
+  path: python/illicit-opioid-use-heroin---primary.py
+inputModule52:
+  class: File
+  path: python/illicit-opioid-use-phenazocine---primary.py
+inputModule53:
+  class: File
+  path: python/illicit-opioid-use-injury---primary.py
+inputModule54:
+  class: File
+  path: python/illicit-opioid-use-substance---primary.py
+inputModule55:
+  class: File
+  path: python/illicit-opioid-use-containing---primary.py
+inputModule56:
+  class: File
+  path: python/illicit-opioid-use-ethoheptazine---primary.py
+inputModule57:
+  class: File
+  path: python/illicit-opioid-use-espranor---primary.py
+inputModule58:
+  class: File
+  path: python/illicit-opioid-use-detoxification---primary.py
+inputModule59:
+  class: File
+  path: python/accidental-illicit-opioid-use---primary.py
+inputModule60:
+  class: File
+  path: python/vpersonal-illicit-opioid-use---primary.py
+inputModule61:
+  class: File
+  path: python/illicit-opioid-use-meptazinol---primary.py
+inputModule62:
+  class: File
+  path: python/illicit-opioid-use-scale---primary.py
+inputModule63:
+  class: File
+  path: python/illicit-opioid-use-dipianone---primary.py
+inputModule64:
+  class: File
+  path: python/illicit-opioid-use-substitution---primary.py
+inputModule65:
+  class: File
+  path: python/illicit-opioid-use-kaolin---primary.py
+inputModule66:
+  class: File
+  path: python/behavioural-illicit-opioid-use---primary.py
+inputModule67:
+  class: File
+  path: python/illicit-opioid-use-buprenorphine---primary.py
+inputModule68:
+  class: File
+  path: python/illicit-opioid-use-schizophrenialike---primary.py
+inputModule69:
+  class: File
+  path: python/illicit-opioid-use-lofexidine---primary.py
+inputModule70:
+  class: File
+  path: python/illicit-opioid-use-dementium---primary.py
+inputModule71:
+  class: File
+  path: python/illicit-opioid-use-questionnaire---primary.py
+inputModule72:
+  class: File
+  path: python/illicit-opioid-use-naltrexone---primary.py
+inputModule73:
+  class: File
+  path: python/illicit-opioid-use-groin---primary.py
+inputModule74:
+  class: File
+  path: python/illicit-opioid-use-opiate---primary.py
+inputModule75:
+  class: File
+  path: python/weekly-illicit-opioid-use---primary.py
+inputModule76:
+  class: File
+  path: python/illicit-opioid-use-maintenance---primary.py
+inputModule77:
+  class: File
+  path: python/illicit-opioid-use-pethidine---primary.py
+inputModule78:
+  class: File
+  path: python/illicit-opioid-use-linctus---primary.py
+inputModule79:
+  class: File
+  path: python/illicit-opioid-use-complication---primary.py
+inputModule80:
+  class: File
+  path: python/active-illicit-opioid-use---primary.py
+inputModule81:
+  class: File
+  path: python/delusional-illicit-opioid-use---primary.py
+inputModule82:
+  class: File
+  path: python/illicit-opioid-use-diluent---primary.py
+inputModule83:
+  class: File
+  path: python/illicit-opioid-use-sulphate---primary.py
+inputModule84:
+  class: File
+  path: python/illicit-opioid-use-physeptone---primary.py
+inputModule85:
+  class: File
+  path: python/illicit-opioid-use-overdose---primary.py
+inputModule86:
+  class: File
+  path: python/illicit-opioid-use-levorphanol---primary.py
+inputModule87:
+  class: File
+  path: python/illicit-opioid-use-elixir---primary.py
+inputModule88:
+  class: File
+  path: python/illicit-opioid-use-month---primary.py
+inputModule89:
+  class: File
+  path: python/illicit-opioid-use-suppository---primary.py
+inputModule90:
+  class: File
+  path: python/illicit-opioid-use-environment---primary.py
+inputModule91:
+  class: File
+  path: python/illicit-opioid-use-hallucinatory---primary.py
+inputModule92:
+  class: File
+  path: python/other-illicit-opioid-use---primary.py
+inputModule93:
+  class: File
+  path: python/illicit-opioid-use-cocaine---primary.py
+inputModule94:
+  class: File
+  path: python/illicit-opioid-use-reaction---primary.py
+inputModule95:
+  class: File
+  path: python/intravenous-illicit-opioid-use---primary.py
+inputModule96:
+  class: File
+  path: python/illicit-opioid-use-blocking---primary.py
+inputModule97:
+  class: File
+  path: python/illicit-opioid-use-capsule---primary.py
+inputModule98:
+  class: File
+  path: python/illicit-opioid-use-fentanyl---primary.py
+inputModule99:
+  class: File
+  path: python/previous-illicit-opioid-use---primary.py
+inputModule100:
+  class: File
+  path: python/illicit-opioid-use-oxycodone---primary.py
+inputModule101:
+  class: File
+  path: python/illicit-opioid-use-controlled---primary.py
+inputModule102:
+  class: File
+  path: python/depressive-illicit-opioid-use---primary.py
+inputModule103:
+  class: File
+  path: python/illicit-opioid-use-pentazocine---primary.py
+inputModule104:
+  class: File
+  path: python/affective-illicit-opioid-use---primary.py
+inputModule105:
+  class: File
+  path: python/illicit-opioid-use-tartrazine---primary.py
+inputModule106:
+  class: File
+  path: python/illicit-opioid-use-phenoperidine---primary.py
+inputModule107:
+  class: File
+  path: python/illicit-opioid-use-tramadol---primary.py
+inputModule108:
+  class: File
+  path: python/illicit-opioid-use-alphaprodine---primary.py
+inputModule109:
+  class: File
+  path: python/illicit-opioid-use-nalbuphine---primary.py
+inputModule110:
+  class: File
+  path: python/output-cases.py
