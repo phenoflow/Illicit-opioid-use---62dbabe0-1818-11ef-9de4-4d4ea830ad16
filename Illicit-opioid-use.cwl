@@ -646,8 +646,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: illicit-opioid-use-detoxification---primary/output
-  vpersonal-illicit-opioid-use---primary:
-    run: vpersonal-illicit-opioid-use---primary.cwl
+  illicit-opioid-use-personality---primary:
+    run: illicit-opioid-use-personality---primary.cwl
     out:
     - output
     in:
@@ -667,7 +667,7 @@ steps:
         source: inputModule61
       potentialCases:
         id: potentialCases
-        source: vpersonal-illicit-opioid-use---primary/output
+        source: illicit-opioid-use-personality---primary/output
   illicit-opioid-use-scale---primary:
     run: illicit-opioid-use-scale---primary.cwl
     out:
