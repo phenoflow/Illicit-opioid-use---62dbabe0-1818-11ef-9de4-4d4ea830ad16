@@ -180,7 +180,7 @@ inputModule59:
   path: python/accidental-illicit-opioid-use---primary.py
 inputModule60:
   class: File
-  path: python/vpersonal-illicit-opioid-use---primary.py
+  path: python/illicit-opioid-use-personality---primary.py
 inputModule61:
   class: File
   path: python/illicit-opioid-use-meptazinol---primary.py
